@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027katalon\u0027])[1]/following::div[3]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/katalon_test_git_google/Page_katalon - Penelusuran Google/div_katalon_M2vV3 vOY7J_neighbor.png"
+      "pathToScreenshot": "Reports/20240328_115938/New Test Suite/20240328_115938/Object Repository/katalon_test_git_google/Page_katalon - Penelusuran Google/div_katalon_M2vV3 vOY7J_neighbor.png"
     }
   ]
 }

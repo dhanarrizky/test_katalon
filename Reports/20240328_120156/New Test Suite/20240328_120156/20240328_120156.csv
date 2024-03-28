@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 123.0.0.0,,,28-03-2024 12:02:04,28-03-2024 12:02:13,9.254s,PASSED
+,,,,,,,
+Test Cases/test_website_use_git,Chrome 123.0.0.0,,,28-03-2024 12:02:04,28-03-2024 12:02:13,8.900s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,28-03-2024 12:02:04,28-03-2024 12:02:07,2.491s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,28-03-2024 12:02:07,28-03-2024 12:02:07,0.187s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,28-03-2024 12:02:07,28-03-2024 12:02:08,0.933s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,28-03-2024 12:02:08,28-03-2024 12:02:12,3.561s,PASSED
+"setText(findTestObject(""Object Repository/katalon_test_git_google/Page_Google/textarea_Login_q""), ""katalon"")",Chrome 123.0.0.0,,,28-03-2024 12:02:12,28-03-2024 12:02:12,0.973s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,28-03-2024 12:02:12,28-03-2024 12:02:13,0.296s,PASSED

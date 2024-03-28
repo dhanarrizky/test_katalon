@@ -27,8 +27,5 @@ WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.setText(findTestObject('Object Repository/katalon_test_git_google/Page_Google/textarea_Login_q'), 'katalon')
 
-WebUI.click(findTestObject('Object Repository/katalon_test_git_google/Page_katalon - Penelusuran Google/div_katalon_M2vV3 vOY7J'))
-
-WebUI.setText(findTestObject('Object Repository/katalon_test_git_google/Page_katalon - Penelusuran Google/textarea_katalon'), 
-    'indocyber')
+WebUI.closeBrowser()
 
